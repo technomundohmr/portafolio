@@ -1,0 +1,19 @@
+.banner{
+    background-image: url('https://images.pexels.com/photos/4974914/pexels-photo-4974914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+.filtro{
+    background: rgba(0,0,255,0.25);
+}
+
+.carta{
+    color:white;
+    margin-top:5em;
+    margin-bottom:5em;
+}
+
+.carta h1{
+    font-family: 'Reggae One', cursive;
+}

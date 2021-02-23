@@ -17,3 +17,9 @@
 .carta h1{
     font-family: 'Reggae One', cursive;
 }
+
+
+.foto{
+    border-radius: 100%;
+    margin-left:7em
+}

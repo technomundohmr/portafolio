@@ -26,3 +26,38 @@
     right: 0%;
     top: 7em;
 }
+
+.menuBajo{
+    background-color: rgba(0,150,129,0.8);
+    width:  40em;
+    margin-left: 20em;
+    position: fixed;
+    z-index: 0;
+    bottom: 0;
+    border-top-left-radius: 40%;
+    border-top-right-radius: 40%;
+}
+
+.menuBajo ul{
+    list-style: none;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.menuBajo ul li{
+   padding-left: 1.5em;
+   padding-top: 1.5em;
+   padding-right: 1.5em;
+}
+
+.menuBajo ul li img{
+    border-radius: 30%;
+}
+
+.menuBajo ul li img:hover{
+    width: 9em;
+    height: 7em;
+    bottom: 0em;
+    background-color: white;
+}

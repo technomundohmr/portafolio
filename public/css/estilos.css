@@ -3,7 +3,6 @@
 }
 
 .fondo-dark {
-    height: 50em;
     color: white;
     background: #0f0c29;
     /* fallback for old browsers */
@@ -14,7 +13,6 @@
 }
 
 .fondo-light {
-    height: 50em;
     background: #ECE9E6;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);

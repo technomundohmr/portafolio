@@ -3,7 +3,7 @@
     <div class="banner">
         <div class="filtro">
             <div class="container">
-                <div class="row">
+                <div class="row py-5">
                     <div class="col-md-3"></div>
                     <div class="col-md-6">
                         <div class="carta">

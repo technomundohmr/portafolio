@@ -1,4 +1,4 @@
-<section class="my-5 pb-5">
+<section class="section2 my-5 pb-5">
     <div class="container">
         <div class="row">
             <div class="col text-center my-5">

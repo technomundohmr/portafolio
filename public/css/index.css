@@ -21,5 +21,7 @@
 
 .foto{
     border-radius: 100%;
-    margin-left:7em
+    margin-left:7em;
+    padding: 1.3;
+    
 }

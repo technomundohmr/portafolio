@@ -8,3 +8,5 @@ btn.onclick = function(){
         btn.className = "btn btn-light botonFondo";
     }
 }
+ScrollReveal().reveal('.banner');
+ScrollReveal().reveal('.section2',{delay: 500, duration:700});
